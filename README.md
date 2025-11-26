@@ -94,14 +94,14 @@ const mohammed = {
 
 <div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/mohammedennaim/DBMC_V1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedennaim&repo=DBMC_V1&theme=tokyonight&hide_border=true&border_radius=15" alt="Digital Banking Management Console"/>
-</a>
-
-<!-- Project 2 -->
+<!-- Project 2: Youdemy -->
 <a href="https://github.com/mohammedennaim/Youdemy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedennaim&repo=Youdemy&theme=tokyonight&hide_border=true&border_radius=15" alt="E-learning Platform"/>
+</a>
+
+<!-- Project 3: Airbnb Clone (from Mohamed-EDDAHMANI) -->
+<a href="https://github.com/Mohamed-EDDAHMANI/Airbnb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-EDDAHMANI&repo=Airbnb&theme=tokyonight&hide_border=true&border_radius=15" alt="Airbnb Clone"/>
 </a>
 
 </div>
