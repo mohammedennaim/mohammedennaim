@@ -168,9 +168,11 @@ const mohammed = {
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img width="49%" 
-       src="https://github-readme-stats-mocha-five-67.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
-       alt="GitHub Stats"/>
+  <img width="49%"
+     src="https://github-readme-stats.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800"
+     alt="GitHub Stats"/>
+
+  <br><br>
 
   <!-- GitHub Streak Stats -->
   <img width="49%" 
@@ -181,8 +183,8 @@ const mohammed = {
 
   <!-- Most Used Languages -->
   <img width="40%"
-       src="https://github-readme-stats-mocha-five-67.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
-       alt="Top Languages"/>
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&cache_seconds=1800"
+     alt="Top Languages"/>
 
   <br><br>
 
