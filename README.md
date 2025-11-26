@@ -169,7 +169,7 @@ const mohammed = {
 
   <!-- GitHub Stats Card -->
   <img width="49%" 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
+       src="https://github-readme-stats.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
        alt="GitHub Stats"/>
 
   <!-- GitHub Streak Stats -->
@@ -181,7 +181,7 @@ const mohammed = {
 
   <!-- Most Used Languages -->
   <img width="40%" 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
        alt="Top Languages"/>
   
   <br><br>
@@ -192,10 +192,11 @@ const mohammed = {
   <br><br>
   
   <!-- Activity Graph -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedennaim&theme=tokyo-night&hide_border=true&radius=15" alt="Contribution Graph"/>
+  <img width="90%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedennaim&theme=tokyo-night&hide_border=true&radius=15" 
+       alt="Contribution Graph"/>
 
 </div>
-
 ---
 
 ## 🌱 Currently Working On
