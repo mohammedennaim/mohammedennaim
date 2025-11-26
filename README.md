@@ -94,12 +94,17 @@ const mohammed = {
 
 <div align="center">
 
-<!-- Project 2: Youdemy -->
+<!-- Project 1: Digital Banking Management Console -->
+<a href="https://github.com/mohammedennaim/DBMC_V1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedennaim&repo=DBMC_V1&theme=tokyonight&hide_border=true&border_radius=15" alt="Digital Banking Management Console"/>
+</a>
+
+<!-- Project 2: Youdemy (E-learning Platform) -->
 <a href="https://github.com/mohammedennaim/Youdemy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedennaim&repo=Youdemy&theme=tokyonight&hide_border=true&border_radius=15" alt="E-learning Platform"/>
 </a>
 
-<!-- Project 3: Airbnb Clone (from Mohamed-EDDAHMANI) -->
+<!-- Project 3: Airbnb Clone -->
 <a href="https://github.com/Mohamed-EDDAHMANI/Airbnb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-EDDAHMANI&repo=Airbnb&theme=tokyonight&hide_border=true&border_radius=15" alt="Airbnb Clone"/>
 </a>
@@ -113,8 +118,8 @@ const mohammed = {
 
 <br>
 
-#### 🏦 Digital Banking Management Console
-> A comprehensive console application simulating a complete digital bank
+#### 🏦 Digital Banking Management Console  
+> A comprehensive console application simulating a complete digital bank.
 
 | Feature | Description |
 |---------|-------------|
@@ -127,8 +132,9 @@ const mohammed = {
 
 ---
 
-#### 🏠 Location Platform (Airbnb Clone)
-> A full-featured reservation platform inspired by Airbnb
+#### 🏠 Location Platform (Airbnb Clone)  
+> A full-featured reservation platform inspired by Airbnb.  
+> *(Collaborative project — repository owned by Mohamed-EDDAHMANI)*
 
 | Feature | Description |
 |---------|-------------|
@@ -141,8 +147,8 @@ const mohammed = {
 
 ---
 
-#### 📚 E-learning Platform (Youdemy)
-> Interactive platform for seamless learning experiences
+#### 📚 E-learning Platform (Youdemy)  
+> Interactive platform for seamless learning experiences.
 
 | Feature | Description |
 |---------|-------------|
