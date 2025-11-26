@@ -166,17 +166,23 @@ const mohammed = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
   <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
+  <img width="49%" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
+       alt="GitHub Stats"/>
+
   <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedennaim&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-  
+  <img width="49%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedennaim&theme=tokyonight&hide_border=true&border_radius=15" 
+       alt="GitHub Streak"/>
+
   <br><br>
-  
+
   <!-- Most Used Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages"/>
+  <img width="40%" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
+       alt="Top Languages"/>
   
   <br><br>
   
