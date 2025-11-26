@@ -251,7 +251,7 @@ const mohammed = {
   ### Thank you for visiting my profile!
   
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-?style=for-the-badge" alt="Made with love"/><span>Mohammed ENNAIM</span>
+    <img src="https://img.shields.io/badge/Made%20with%20%3A-Mohammed%20ENNAIM-blue?style=for-the-badge" alt="Made with : Mohammed ENNAIM"/>
     <img src="https://img.shields.io/badge/From-Morocco%20🇲🇦-green?style=for-the-badge" alt="From Morocco"/>
   </p>
   
