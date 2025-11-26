@@ -169,34 +169,36 @@ const mohammed = {
 
   <!-- GitHub Stats Card -->
   <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
+       src="https://github-readme-stats-mocha-five-67.vercel.app/api?username=mohammedennaim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
        alt="GitHub Stats"/>
 
   <!-- GitHub Streak Stats -->
   <img width="49%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedennaim&theme=tokyonight&hide_border=true&border_radius=15" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedennaim&theme=tokyonight&hide_border=true&border_radius=15"
        alt="GitHub Streak"/>
 
   <br><br>
 
   <!-- Most Used Languages -->
-  <img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
+  <img width="40%"
+       src="https://github-readme-stats-mocha-five-67.vercel.app/api/top-langs/?username=mohammedennaim&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
        alt="Top Languages"/>
-  
+
   <br><br>
-  
+
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedennaim&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedennaim&theme=tokyonight&no-frame=true&row=1&column=7" 
+       alt="GitHub Trophies"/>
+
   <br><br>
-  
+
   <!-- Activity Graph -->
   <img width="90%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedennaim&theme=tokyo-night&hide_border=true&radius=15" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedennaim&theme=tokyo-night&hide_border=true&radius=15"
        alt="Contribution Graph"/>
 
 </div>
+
 ---
 
 ## 🌱 Currently Working On
